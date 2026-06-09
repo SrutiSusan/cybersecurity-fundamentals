@@ -1,12 +1,25 @@
 # Cybersecurity Fundamentals
 
-A repository to consolidate my learnings in IT security as part of my IT Audit/GRC career path.  
+Notes and references covering core cybersecurity concepts 
+that underpin IT Audit and GRC practice.
+
+**Prepared by:** Sruti Susan Shaji | ISO/IEC 27001:2022 Certified Lead Auditor
+
+---
 
 ## Topics Covered
-- TCP/IP, Firewalls, Access Control
+
+- CIA Triad — Confidentiality, Integrity, Availability
+- Common Threats & Attack Vectors
+- Access Control & Authentication
 - Encryption & Data Protection
-- Common Threats & Mitigations
-- Diagrams and Notes on Security Practices
+- Network Security Basics
+- Security Frameworks Overview (ISO 27001, NIST CSF)
+
+---
 
 ## Purpose
-To provide a foundation in cybersecurity concepts that are critical for IT audit and risk management roles.
+
+To document foundational cybersecurity knowledge that supports 
+practical GRC work including risk assessment, control selection, 
+and audit preparation.
